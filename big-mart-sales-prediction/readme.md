@@ -95,5 +95,5 @@ Your model performance will be evaluated on the basis of your prediction of the 
 
 We at our end, have the actual sales for the test dataset, against which your predictions will be evaluated. We will use the <b>Root Mean Square</b> Error value to judge your response.
 
-
-The model that gave me a good score was gradient-boosting-regressor from sklearn after preprocessing data and feature engineering with mse of 1149 and then I used TPOT-regressor for 5 mins which found a pipeline gradient-boosting-regressor stacked with extra-trees-regressor and that gave me a score of 1144.
+<h3>What helped me?</h3>
+The model that gave me a good score was gradient-boosting-regressor from sklearn after preprocessing data and feature engineering with mse of 1149 and then I used TPOT-regressor for 5 mins(by 5 mins I mean that I forcefully stopped it.) which found a pipeline gradient-boosting-regressor stacked with extra-trees-regressor and that gave me a score of 1144.
