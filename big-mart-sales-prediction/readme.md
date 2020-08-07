@@ -1,7 +1,7 @@
 <h2><a href='https://datahack.analyticsvidhya.com/contest/practice-problem-big-mart-sales-iii'>Analytics Vidhya Hackathon</a></h2>
 <p><b>Score achieved:</b> 1144.3476 with rank 98 / 3971 submissions as on 7-Aug-2020</p>
 
-<h3>Sales Prediction for Big Mart Outlets<h3>
+<h3>Sales Prediction for Big Mart Outlets</h3>
 The data scientists at BigMart have collected 2013 sales data for 1559 products across 10 stores in different cities. Also, certain attributes of each product and store have been defined. The aim is to build a predictive model and predict the sales of each product at a particular outlet.
 
 Using this model, BigMart will try to understand the properties of products and outlets which play a key role in increasing sales.
