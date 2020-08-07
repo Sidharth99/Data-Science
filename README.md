@@ -1,2 +1,2 @@
 # Data-Science
-All my data science projects will be posted here.
+All my data science projects/hackathons will be posted here.
