@@ -1,5 +1,5 @@
 <h2><a href='https://datahack.analyticsvidhya.com/contest/practice-problem-loan-prediction-iii'>Analytics Vidya hackathon</a></h2>
-
+<p><b>Accuracy achieved:78.4722 with rank 1643/7400(approx) submissions on public LB</b></p>
 <h3>Problem Statement :</h3>
 <h4>Predict Loan Eligibility for Dream Housing Finance company</h4>
 <p>Dream Housing Finance company deals in all kinds of home loans. They have presence across all urban, semi urban and rural areas. Customer first applies for home loan and after that company validates the customer eligibility for loan.
@@ -87,3 +87,5 @@ Company wants to automate the loan eligibility process (real time) based on cust
 Your model performance will be evaluated on the basis of your prediction of loan status for the test data (test.csv), which contains similar data-points as train except for the loan status to be predicted. Your submission needs to be in the format as shown in sample submission.
 
 We at our end, have the actual loan status for the test dataset, against which your predictions will be evaluated. We will use the <b>Accuracy</b> value to judge your response.
+
+I achieved accuracy of 78.4722 using cart model.
