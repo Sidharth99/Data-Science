@@ -1,6 +1,6 @@
 <h2><a href='https://datahack.analyticsvidhya.com/contest/black-friday'>Analytics Vidhya Hackathon</a></h2>
 
-<p><b>Score Achieved: </b> 2470.81 with rank of 228 out of 2357 active participants as on 7-Aug-2020</p>
+<p><b>Score Achieved: </b> 2470.81 with rank of 228 out of 2357 active participants as on 7-Aug-2020 [model: xgboost regressor]</p>
 
 <h3>Problem Statement</h3>
 <p>A retail company “ABC Private Limited” wants to understand the customer purchase behaviour (specifically, purchase amount) against various products of different categories. They have shared purchase summary of various customers for selected high volume products from last month.
